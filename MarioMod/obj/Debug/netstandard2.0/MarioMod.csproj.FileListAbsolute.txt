@@ -1,0 +1,11 @@
+C:\Users\mario\Desktop\Mushjam attempt 2\HenryTutorial-master\HenryMod\obj\Debug\netstandard2.0\MarioMod.csproj.AssemblyReference.cache
+C:\Users\mario\Desktop\Mushjam attempt 2\HenryTutorial-master\HenryMod\obj\Debug\netstandard2.0\MarioMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\Desktop\Mushjam attempt 2\HenryTutorial-master\HenryMod\obj\Debug\netstandard2.0\MarioMod.AssemblyInfoInputs.cache
+C:\Users\mario\Desktop\Mushjam attempt 2\HenryTutorial-master\HenryMod\obj\Debug\netstandard2.0\MarioMod.AssemblyInfo.cs
+C:\Users\mario\Desktop\Mushjam attempt 2\HenryTutorial-master\HenryMod\obj\Debug\netstandard2.0\MarioMod.csproj.CoreCompileInputs.cache
+C:\Users\mario\Desktop\Mushjam attempt 2\HenryTutorial-master\HenryMod\bin\Debug\netstandard2.0\MarioMod.deps.json
+C:\Users\mario\Desktop\Mushjam attempt 2\HenryTutorial-master\HenryMod\bin\Debug\netstandard2.0\MarioMod.dll
+C:\Users\mario\Desktop\Mushjam attempt 2\HenryTutorial-master\HenryMod\bin\Debug\netstandard2.0\MarioMod.pdb
+C:\Users\mario\Desktop\Mushjam attempt 2\HenryTutorial-master\HenryMod\obj\Debug\netstandard2.0\MarioMod.dll
+C:\Users\mario\Desktop\Mushjam attempt 2\HenryTutorial-master\HenryMod\obj\Debug\netstandard2.0\MarioMod.pdb
+C:\Users\mario\Desktop\Mushjam attempt 2\HenryTutorial-master\HenryMod\bin\Debug\netstandard2.0\marioassetbundle
