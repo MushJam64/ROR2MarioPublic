@@ -1,0 +1,101 @@
+ManifestFileVersion: 0
+CRC: 2322006809
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e876cda57adcf37176a7862472b1e7f8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 38bfba87699584aebcc9f82c6c91a9f1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 261c50d8a80898e4ebf2e8e415ea6766, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/HenryAssets/HenryBundle/Icons/TexFists.png
+- Assets/HenryAssets/HenryBundle/Icons/texBazookaIcon.png
+- Assets/HenryAssets/HenryBundle/Icons/texMasteryAchievement.png
+- Assets/Materials/buttons.mat
+- Assets/HenryAssets/HenryBundle/Materials/matMario.mat
+- Assets/HenryAssets/HenryBundle/Textures/texMarioAlt.png
+- Assets/HenryAssets/HenryBundle/Icons/texPassiveIcon.png
+- Assets/old.prefab
+- Assets/HenryAssets/HenryBundle/Icons/texDanteAchievement.png
+- Assets/b.prefab
+- Assets/HenryAssets/HenryBundle/Icons/texSecondaryIcon.png
+- Assets/HenryAssets/HenryBundle/Animation/animMario.controller
+- Assets/Materials/Base_0.png
+- Assets/Materials/Button.png
+- Assets/HenryAssets/HenryBundle/Icons/texHenryAchievement.png
+- Assets/MarioAssets/Newer idleM.anim
+- Assets/Materials/Hat.mat
+- Assets/HenryAssets/HenryBundle/Icons/TexHammer.png
+- Assets/HenryAssets/HenryBundle/Animation/animMarioMenu.controller
+- Assets/HenryAssets/HenryBundle/Icons/texVergilAchievement.png
+- Assets/Scenes/a.prefab
+- Assets/Materials/sideburn.png
+- Assets/Materials/Sideburn.mat
+- Assets/HenryAssets/HenryBundle/Materials/matMarioAlt.mat
+- Assets/Materials/HammerWood.png
+- Assets/HenryAssets/HenryBundle/Materials/matLuigi.mat
+- Assets/asasan.prefab
+- Assets/HenryAssets/HenryBundle/Icons/texScepterSpecialIcon.png
+- Assets/HenryAssets/FBX/Mushjam mario IDLE 2.fbx
+- Assets/HenryAssets/HenryBundle/Textures/texMario.png
+- Assets/HenryAssets/HenryBundle/Icons/texBazookaOutIcon.png
+- Assets/HenryAssets/HenryBundle/Icons/texUziIcon.png
+- Assets/Materials/saturn_emblem_new.png
+- Assets/MarioAssets/MushjammarioDisplay.prefab
+- Assets/HenryAssets/HenryBundle/Icons/texBazookaIconScepter.png
+- Assets/HenryAssets/HenryBundle/Icons/texMainSkin.png
+- Assets/Materials/Mustache.mat
+- Assets/HenryAssets/HenryBundle/Icons/texUtilityIcon.png
+- Assets/Materials/mustache.png
+- Assets/HenryAssets/HenryBundle/Mesh/meshMarioHammer.asset
+- Assets/Materials/Better wing.png
+- Assets/HenryAssets/HenryBundle/Icons/texIceball.png
+- Assets/MarioAssets/mdlMushjammario.prefab
+- Assets/Materials/HammerWood.mat
+- Assets/HenryAssets/HenryBundle/Icons/texStingerIcon.png
+- Assets/Materials/Eyes.mat
+- Assets/HenryAssets/HenryBundle/Icons/texPistolIcon.png
+- Assets/HenryAssets/FBX/MarioIdle.anim
+- Assets/HenryAssets/HenryBundle/Icons/texBazookaFireIcon.png
+- Assets/HenryAssets/HenryBundle/Icons/texGrandMasteryAchievement.png
+- Assets/HenryAssets/HenryBundle/Textures/texMarioLuigi.png
+- Assets/Materials/Wings.mat
+- Assets/Materials/matHammer.mat
+- Assets/MarioAssets/Bleh.prefab
+- Assets/HenryAssets/HenryBundle/Icons/texSpecialIcon.png
+Dependencies: []
